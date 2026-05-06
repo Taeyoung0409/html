@@ -12,6 +12,7 @@ import Hero from './components/sections/Hero';
 import AboutUs from './components/sections/AboutUs';
 import History from './components/sections/History';
 import OrganizationChart from './components/sections/OrganizationChart';
+import Certifications from './components/sections/Certifications';
 import Facility from './components/sections/Facility';
 import Location from './components/sections/Location';
 import Contact from './components/sections/Contact';
@@ -47,6 +48,7 @@ function App() {
           <AboutUs />
           <History />
           <OrganizationChart />
+          <Certifications />
           <Facility />
           <Location />
           <Contact />
